@@ -3,8 +3,8 @@
 ##### Objectives of the lab
 
 
-- [ ] Set up some express servers for practice
-- [ ] Make some get routes
+- [x] Set up some express servers for practice
+- [x] Make some get routes
 - [ ] Use URL/Query parameters
 - [ ] Practice setting up express applications
 - [ ] Practice creating custom routes
@@ -22,8 +22,8 @@
 
 ##### Sections
 
-1. Greetings
-2. Tip Calculator
-3. Magic 8 Ball
-4. Take One Down and Pass it Around
-5. Bonus
+- [x] Greetings
+- [ ] Tip Calculator
+- [ ] Magic 8 Ball
+- [ ] Take One Down and Pass it Around
+- [ ] Bonus
