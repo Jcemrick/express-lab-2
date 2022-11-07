@@ -5,10 +5,10 @@
 
 - [x] Set up some express servers for practice
 - [x] Make some get routes
-- [ ] Use URL/Query parameters
-- [ ] Practice setting up express applications
-- [ ] Practice creating custom routes
-- [ ] Practice using parameters from a request
+- [x] Use URL/Query parameters
+- [x] Practice setting up express applications
+- [x] Practice creating custom routes
+- [x] Practice using parameters from a request
 
 
 ---
@@ -23,7 +23,7 @@
 ##### Sections
 
 - [x] Greetings
-- [ ] Tip Calculator
+- [x] Tip Calculator
 - [ ] Magic 8 Ball
 - [ ] Take One Down and Pass it Around
 - [ ] Bonus
