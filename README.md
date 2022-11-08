@@ -24,6 +24,6 @@
 
 - [x] Greetings
 - [x] Tip Calculator
-- [ ] Magic 8 Ball
+- [x] Magic 8 Ball
 - [ ] Take One Down and Pass it Around
 - [ ] Bonus
