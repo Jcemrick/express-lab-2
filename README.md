@@ -14,8 +14,8 @@
 ---
 
 ##### Technical Requirements
-- [ ] Must be able run without syntax errors
-- [ ] Must get functionality requires for each working section
+- [x] Must be able run without syntax errors
+- [x] Must get functionality requires for each working section
 
 
 ---
@@ -25,5 +25,5 @@
 - [x] Greetings
 - [x] Tip Calculator
 - [x] Magic 8 Ball
-- [ ] Take One Down and Pass it Around
+- [x] Take One Down and Pass it Around
 - [ ] Bonus
